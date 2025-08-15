@@ -20,7 +20,7 @@ This repository is a heartfelt exploration of cultural differences between Swede
 ## The Cultural Iceberg
 ```mermaid
 graph TD
-    A[Visible Behavior<br>(Above the Surface)]:::above --> B[Hidden Values, Norms, & Beliefs<br>(Below the Surface)]:::below
+    A["Visible Behavior (Above the Surface)"]:::above --> B["Hidden Values, Norms, & Beliefs (Below the Surface)"]:::below
 
     subgraph Sweden
         S1["Polite, brief questions about relationship (e.g., 'How's it going?')"]
@@ -78,3 +78,4 @@ This perspective reframes perceived silence not as disinterest, but as a differe
 This project is more than just a diagram — it’s my way of building a bridge between two cultures, and showing Maria that I’m committed to understanding not just *her*, but the world she lives in.
 
 💙🇸🇪 + ❤️🇺🇸
+
